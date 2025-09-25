@@ -27,6 +27,7 @@
 - Android SDK نصب شده و آماده
 
 1. کلون کردن مخزن:
+   
    ```bash
    git clone https://github.com/zahmadi98/musicplayerjava.git
    cd musicplayerjava
