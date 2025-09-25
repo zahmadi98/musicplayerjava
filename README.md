@@ -26,12 +26,13 @@
 - **Java JDK** نسخه 8 یا بالاتر  
 - Android SDK نصب شده و آماده
 
+
+````
 ---
 ## 🚀 نصب و اجرای پروژه / Installation & Run
 
 1. کلون کردن مخزن:
-
-```bash
+   ```bash
 git clone https://github.com/zahmadi98/musicplayerjava.git
 cd musicplayerjava
 2.باز کردن پروژه در Android Studio
