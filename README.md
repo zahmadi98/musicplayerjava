@@ -27,13 +27,14 @@
 - Android SDK نصب شده و آماده
 
 ---
-
-### 🚀 نصب و اجرای پروژه / Installation & Run
+## 🚀 نصب و اجرای پروژه / Installation & Run
 
 1. کلون کردن مخزن:
+
 ```bash
 git clone https://github.com/zahmadi98/musicplayerjava.git
-cd musicplayerjava```
+cd musicplayerjava
+
 
 2.باز کردن پروژه در Android Studio
 3.صبر کنید تا Gradle تمام وابستگی‌ها را دانلود کند
