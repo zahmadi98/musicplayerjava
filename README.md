@@ -34,7 +34,7 @@
 
 ```bash
 git clone https://github.com/zahmadi98/musicplayerjava.git
-cd musicplayerjava
+cd musicplayerjava```
 باز کردن پروژه در Android Studio
 
 صبر کنید تا Gradle تمام وابستگی‌ها را دانلود کند
